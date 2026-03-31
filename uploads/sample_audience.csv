@@ -1,0 +1,101 @@
+recipientIdentifier,phone,email,company,city,segment_tag
+CUST0001,+94771234567,kamal.perera@gmail.com,SoftTech Solutions,Colombo,A
+CUST0002,+94772345678,nimali.fernando@yahoo.com,Green Horizon,Piliyandala,B
+CUST0003,+94773456789,tharindu.silva@hotmail.com,CodeZap Maharagama,C
+CUST0004,+94774567890,sanduni.jayasinghe@outlook.com,Crystal Logistics,Dehiwala,A
+CUST0005,+94775678901,ruwan.weerasinghe@gmail.com,Vertex IT,Pannipitiya,B
+CUST0006,+94776789012,ishara.mendis@yahoo.com,Lotus Apparel,Homagama,C
+CUST0007,+94777890123,prasad.gamage@hotmail.com,NextGen Robotics,Moratuwa,A
+CUST0008,+94778901234,hasini.rathnayake@outlook.com,Sunrise Pharmacy,Nugegoda,B
+CUST0009,+94779012345,dilshan.fernando@gmail.com,Blue Ocean Exports,Panadura,C
+CUST0010,+94770123456,amali.dissanayake@yahoo.com,TechTrend Innovations,Colombo 5,A
+CUST0011,+94771234561,chanaka.kumara@hotmail.com,Vista Advertising,Rajagiriya,B
+CUST0012,+94772345672,nayomi.gunasekara@outlook.com,Pearl Gardens,Kottawa,C
+CUST0013,+94773456783,saman.kodithuwakku@gmail.com,MegaBuild Constructions,Maharagama,A
+CUST0014,+94774567894,thilini.jayawardena@yahoo.com,Orbit Digital,Kesbewa,B
+CUST0015,+94775678905,lasith.ranasinghe@hotmail.com,GreenLeaf Tea,Pitakotte,C
+CUST0016,+94776789016,mihiri.seneviratne@outlook.com,PowerTech Electricals,Colombo 3,A
+CUST0017,+94777890127,anjana.wickramasinghe@gmail.com,Urban Edge Realty,Dehiwala,B
+CUST0018,+94778901238,sithara.gunawardena@yahoo.com,Creative Minds Studio,Nugegoda,C
+CUST0019,+94779012349,harsha.jayakody@hotmail.com,Swift Courier Services,Homagama,A
+CUST0020,+94770123450,oshadi.perera@outlook.com,DataWave Analytics,Pannipitiya,B
+CUST0021,+94771234571,pubudu.samarasinghe@gmail.com,Elite Fitness Center,Moratuwa,C
+CUST0022,+94772345682,imasha.weerakoon@yahoo.com,Sakura Japanese Restaurant,Colombo 7,A
+CUST0023,+94773456793,dineth.hewage@hotmail.com,Prime Motors,Kaduwela,B
+CUST0024,+94774567904,shashini.fonseka@outlook.com,Lumina Advertising,Battaramulla,C
+CUST0025,+94775678915,janith.muthukuda@gmail.com,Helio Solar Energy,Piliyandala,A
+CUST0026,+94776789026,ridma.dilshan@yahoo.com,PixelCraft Media,Ratmalana,B
+CUST0027,+94777890137,uvini.rajapaksa@hotmail.com,Trident Security Services, Maharagama,C
+CUST0028,+94778901248,malith.jayawardena@outlook.com,Everest Construction,Colombo 4,A
+CUST0029,+94779012359,savindi.gamage@gmail.com,Bliss Yoga Studio,Kesbewa,B
+CUST0030,+94770123460,tharaka.silva@yahoo.com,Quantum Logistics,Panadura,C
+CUST0031,+94771234581,nethmi.dias@hotmail.com,Trendy Threads,Nugegoda,A
+CUST0032,+94772345692,ashen.fernando@outlook.com,SmartHome Solutions,Homagama,B
+CUST0033,+94773456803,sandun.pathirana@gmail.com,Globe Tours & Travels,Pannipitiya,C
+CUST0034,+94774567914,pooja.gunathilaka@yahoo.com,Crystal Clear Water Purifiers,Moratuwa,A
+CUST0035,+94775678925,chalani.jayasinghe@hotmail.com,Nexa Innovations,Dehiwala,B
+CUST0036,+94776789036,damith.karunaratne@outlook.com,Urban Harvest Farms,Colombo 6,C
+CUST0037,+94777890147,erandi.mendis@gmail.com,Velocity Motors,Kottawa,A
+CUST0038,+94778901258,supun.ranathunga@yahoo.com,ArtVista Gallery,Battaramulla,B
+CUST0039,+94779012369,nimna.perera@hotmail.com,Core Fitness Academy,Rajagiriya,C
+CUST0040,+94770123470,vidusha.gunawardena@outlook.com,TechNest Coworking,Colombo 3,A
+CUST0041,+94771234591,malaka.siriwardena@gmail.com,GreenWave Nursery,Pitakotte,B
+CUST0042,+94772345702,tharushi.dissanayake@yahoo.com,ByteBridge IT,Maharagama,C
+CUST0043,+94773456813,anil.jayakody@hotmail.com,Summit Elevators,Kaduwela,A
+CUST0044,+94774567924,reshmi.weerasinghe@outlook.com,Flora Blooms,Kesbewa,B
+CUST0045,+94775678935,sachith.gamage@gmail.com,NextStep Education,Panadura,C
+CUST0046,+94776789046,hasara.kumara@yahoo.com,Zenith Marketing,Nugegoda,A
+CUST0047,+94777890157,devmi.senanayake@hotmail.com,Atlas Hardware,Homagama,B
+CUST0048,+94778901268,prabath.mendis@outlook.com,Ocean Breeze Resort,Moratuwa,C
+CUST0049,+94779012379,ishani.rathnayake@gmail.com,PixelPulse Creations,Dehiwala,A
+CUST0050,+94770123480,lasitha.jayawardena@yahoo.com,SwiftPay Solutions,Colombo 5,B
+CUST0051,+94771234601,amila.fernando@hotmail.com,GreenTech Energy,Piliyandala,C
+CUST0052,+94772345712,savani.pathirana@outlook.com,Luxe Interior Design,Ratmalana,A
+CUST0053,+94773456823,nuwan.gunasekara@gmail.com,Peak Performance Gym,Colombo 7,B
+CUST0054,+94774567934,tharini.silva@yahoo.com,Vivid Advertising,Kottawa,C
+CUST0055,+94775678945,jehan.ranasinghe@hotmail.com,SmartGrid Solutions,Maharagama,A
+CUST0056,+94776789056,madhavi.jayakody@outlook.com,Coral Reef Divers,Panadura,B
+CUST0057,+94777890167,akila.weerakoon@gmail.com,Nexa Builders,Nugegoda,C
+CUST0058,+94778901278,sanduni.muthukuda@yahoo.com,Elite Realty,Homagama,A
+CUST0059,+94779012389,reshan.perera@hotmail.com,CodeCrafters,Pannipitiya,B
+CUST0060,+94770123490,oshini.gunawardena@outlook.com,Blossom Events,Moratuwa,C
+CUST0061,+94771234611,dulaj.samarasinghe@gmail.com,Velocity Logistics,Dehiwala,A
+CUST0062,+94772345722,nimesha.hewage@yahoo.com,Urban Art Studio,Battaramulla,B
+CUST0063,+94773456833,pasan.kodithuwakku@hotmail.com,Prime Pharmacy,Rajagiriya,C
+CUST0064,+94774567944,hasini.dias@outlook.com,SolarMax Energy,Colombo 4,A
+CUST0065,+94775678955,tharindu.ranathunga@gmail.com,Trend Innovations,Kesbewa,B
+CUST0066,+94776789066,mihirangi.fonseka@yahoo.com,Crystal Events,Pitakotte,C
+CUST0067,+94777890177,janaka.siriwardena@hotmail.com,NextGen Printing,Maharagama,A
+CUST0068,+94778901288,chalani.gamage@outlook.com,Horizon Travels,Panadura,B
+CUST0069,+94779012399,nilakshi.jayasinghe@gmail.com,Vertex Academy,Nugegoda,C
+CUST0070,+94770123500,supun.weerasinghe@yahoo.com,GreenVista Landscapes,Homagama,A
+CUST0071,+94771234621,imalka.mendis@hotmail.com,TechPulse Solutions,Moratuwa,B
+CUST0072,+94772345732,ashen.pathirana@outlook.com,Lotus Spa & Wellness,Dehiwala,C
+CUST0073,+94773456843,dinuka.karunaratne@gmail.com,Swift Logistics,Kottawa,A
+CUST0074,+94774567954,sithmi.gunathilaka@yahoo.com,Pixel Perfect Studio,Ratmalana,B
+CUST0075,+94775678965,malindu.jayawardena@hotmail.com,Elite Motors,Pannipitiya,C
+CUST0076,+94776789076,nethra.senanayake@outlook.com,Blissful Weddings,Colombo 6,A
+CUST0077,+94777890187,tharaka.rajapaksa@gmail.com,Quantum Analytics,Battaramulla,B
+CUST0078,+94778901298,poorna.fernando@yahoo.com,Summit Fitness,Kaduwela,C
+CUST0079,+94779012409,hasara.gunasekara@hotmail.com,Coral Blue Resort,Piliyandala,A
+CUST0080,+94770123510,reshmi.dissanayake@outlook.com,CodeZap Academy,Maharagama,B
+CUST0081,+94771234631,nuwan.jayakody@gmail.com,GreenLeaf Organics,Nugegoda,C
+CUST0082,+94772345742,uvini.rathnayake@yahoo.com,Velocity Advertising,Panadura,A
+CUST0083,+94773456853,savindi.muthukuda@hotmail.com,Prime Constructions,Homagama,B
+CUST0084,+94774567964,akila.samarasinghe@outlook.com,Zen Spa & Yoga,Moratuwa,C
+CUST0085,+94775678975,malaka.gamage@gmail.com,TechTrend Solutions,Dehiwala,A
+CUST0086,+94776789086,mihiri.weerakoon@yahoo.com,Lumina Events,Kesbewa,B
+CUST0087,+94777890197,prabath.perera@hotmail.com,Swift Courier,Kottawa,C
+CUST0088,+94778901308,oshadi.hewage@outlook.com,Urban Edge Realty,Rajagiriya,A
+CUST0089,+94779012419,tharushi.jayasinghe@gmail.com,PixelCraft Studio,Pitakotte,B
+CUST0090,+94770123520,dulaj.gunawardena@yahoo.com,NextStep Tutoring,Colombo 5,C
+CUST0091,+94771234641,nethmi.kodithuwakku@hotmail.com,Helio Energy,Maharagama,A
+CUST0092,+94772345752,chalani.fonseka@outlook.com,Blossom Florist,Panadura,B
+CUST0093,+94773456863,janith.ranasinghe@gmail.com,SmartHome Systems,Nugegoda,C
+CUST0094,+94774567974,pooja.siriwardena@yahoo.com,Elite Fitness,Homagama,A
+CUST0095,+94775678985,ridma.jayawardena@hotmail.com,Coral Reef Travel,Moratuwa,B
+CUST0096,+94776789096,hasini.pathirana@outlook.com,Vertex IT Solutions,Dehiwala,C
+CUST0097,+94777890207,lasith.gamage@gmail.com,Trendy Apparel,Kesbewa,A
+CUST0098,+94778901318,imasha.mendis@yahoo.com,GreenWave Solutions,Pannipitiya,B
+CUST0099,+94779012429,ashen.fernando@hotmail.com,Quantum Tech,Piliyandala,C
+CUST0100,+94770123530,sanduni.jayasinghe@outlook.com,Bliss Events,Colombo 3,A
